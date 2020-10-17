@@ -14,3 +14,7 @@
 
 [Ejercicio 2](https://github.com/JuanPablo32/MineriaDatos/blob/master/Problema%202)
 
+
+## Fase 2
+
+[Ejercicios base de datos](https://github.com/eddi0698/Mineria_de_datos/blob/master/AnalisisBD_1741322.pdf)

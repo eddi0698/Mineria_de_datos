@@ -19,4 +19,4 @@
 
 [Ejercicios base de datos](https://github.com/eddi0698/Mineria_de_datos/blob/master/AnalisisBD_1741322.pdf)
 
-[Ejercicio Python basico] (https://github.com/eddi0698/Mineria_de_datos/blob/master/PythonBasico_1741322.ipynb)_
+[Ejercicio Python Basico]_(https://github.com/eddi0698/Mineria_de_datos/blob/master/PythonBasico_1741322.ipynb)

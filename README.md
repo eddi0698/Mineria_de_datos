@@ -24,3 +24,7 @@
 [Avance 1 PIA](https://github.com/eddi0698/Mineria_de_datos/blob/master/Avance1-PIA_7_003.pdf)
 
 [Limpieza Ejercicio](https://github.com/OscarVega124/Mineria_De_Datos/blob/master/Limpieza.ipynb)
+
+## Fase 3
+
+[Avance PIA 2](https://github.com/eddi0698/Mineria_de_datos/blob/master/AvancePIA_II_003_7.ipynb)

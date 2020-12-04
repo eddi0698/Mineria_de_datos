@@ -29,4 +29,3 @@
 
 [Avance PIA 2](https://github.com/eddi0698/Mineria_de_datos/blob/master/AvancePIA_II_003_7.ipynb)
 [Póster PIA](https://github.com/eddi0698/Mineria_de_datos/blob/master/Guia_Poster_07.pdf)
-[Póster PIA](https://github.com/eddi0698/Mineria_de_datos/blob/master/Guia_Poster_07.pdf)
